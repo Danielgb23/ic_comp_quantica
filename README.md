@@ -2,7 +2,7 @@
 
 [The material of this internship was made in portuguese.]
 
-[Video in portuguese](https://youtu.be/jOJm0fjOHDE?si=EniDWa5tUfLl2Tvt)
+[3 minutes video in portuguese](https://youtu.be/jOJm0fjOHDE?si=EniDWa5tUfLl2Tvt)
 
 On this internship I made several simulations of a quantum computer using python from these 
 [project suggestions by D. Candela](https://github.com/Danielgb23/ic_comp_quantica/blob/master/Candela%20-%202015%20-%20Undergraduate%20computational%20physics%20projects%20on%20qu.pdf.pdf).
