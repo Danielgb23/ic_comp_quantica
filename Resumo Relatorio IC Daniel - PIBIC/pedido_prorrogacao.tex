@@ -1,0 +1,82 @@
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[left=2.5cm,right=2.5cm,top=2cm,bottom=2cm]{geometry}
+%\usepackage{fancyhdr}
+%\pagestyle{fancy}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{indentfirst}
+\usepackage{wrapfig}
+\usepackage{lipsum}
+\usepackage{setspace}
+\usepackage{adjustbox}
+\usepackage{minted}
+\bibliographystyle{unsrtnat}
+\usepackage[numbers,sort&compress]{natbib}
+\usepackage{breakcites}
+\usepackage[breaklinks=true]{hyperref}
+\usepackage{hyperref}
+
+\usepackage{microtype} % Improves typography
+\usepackage{gfsdidot} % Use the GFS Didot font: http://www.tug.dk/FontCatalogue/gfsdidot/
+
+
+% Create a new command for the horizontal rule in the document which allows thickness specification
+\makeatletter
+\def\vhrulefill#1{\leavevmode\leaders\hrule\@height#1\hfill \kern\z@}
+\makeatother
+\parindent 1cm
+
+ \renewcommand{\rmdefault}{phv} % Arial
+ \renewcommand{\sfdefault}{phv} % Arial
+
+\title{Relatório PIBIC Daniel Benvenutti}
+%\author{}
+
+\thispagestyle{empty}
+
+\begin{document}
+
+
+\begin{wrapfigure}[2]{l}{7cm}
+\includegraphics[scale=0.111]{logo-documentos.png}
+\end{wrapfigure}
+
+
+
+\noindent 
+\begin{flushright}
+\begin{scriptsize}
+Francisco Rouxinol \\
+Instituto de Física Gleb Watghin\\
+Rua Sergio Buarque de Holanda, 777\\
+13083-859, Campinas, SP \\
+e-mail: rouxinol@unicamp.br\\
+tel: +55(19)3521-5462\\
+% \hspace{-0.5cm} 
+\vhrulefill{1pt} \\ % 
+\end{scriptsize}
+\end{flushright}
+
+
+\section{Dados do bolsista}
+\begin{itemize}
+    \item Nome: Daniel Gonçalves Benvenutti
+    \item CPF: 066.820.789-27
+    \item N° processo institucional da bolsa: 119730/2019-7
+\end{itemize}
+\section{Justificativa}
+% \singlespacing %Para um espaçamento simples
+% \onehalfspacing %Para um espaçamento de 1,5
+%\doublespacing %Para um espaçamento duplo 
+
+% $ $\\
+
+
+% \singlespacing %Para um espaçamento simples
+% \large 
+
+\end{document}
