@@ -4,6 +4,8 @@
 
 [3 minutes video in portuguese](https://youtu.be/jOJm0fjOHDE?si=EniDWa5tUfLl2Tvt)
 
+Read my [final report](https://github.com/Danielgb23/ic_comp_quantica/blob/master/Relatorio_IC_Daniel___PIBIC.pdf) or the [summary](https://github.com/Danielgb23/ic_comp_quantica/blob/master/Resumo_Relatorio_IC_Daniel___PIBIC.pdf) in portuguese.
+
 On this internship I made several python simulations of a quantum computer from these 
 [project suggestions by D. Candela](https://github.com/Danielgb23/ic_comp_quantica/blob/master/Candela%20-%202015%20-%20Undergraduate%20computational%20physics%20projects%20on%20qu.pdf.pdf).
 
@@ -20,6 +22,5 @@ _Shor's algorithm period finding step (quantum step) result for the factorizatio
 [In the second notebook](https://github.com/Danielgb23/ic_comp_quantica/blob/master/caderno_qiskit_comp_real.ipynb) I did the Grover search algorithm and the Shor factorization algorithm
 in the IBM's real quantum device on the cloud using qiskit.
 
-![image](https://github.com/user-attachments/assets/0938b5f8-00c2-4714-8770-0025803a1cfb)
-
-_f(x) gate of the Shor's algorithm made with qiskit gates._
+![image](https://github.com/user-attachments/assets/ba5819f1-1fbc-4858-aee1-005de9b251c6)
+_Shor's algorithm quantum gate setup in qiskit_
